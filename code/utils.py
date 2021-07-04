@@ -381,5 +381,5 @@ def warp_perpective_image_from_mask(image_array, mask_array):
 
 if  __name__ == '__main__':
     # create_detection_data('datasets\\detection', ['student-id'], test_set_ratio=0.1, valid_set_ratio=0.1, force_creation=True)
-    create_orientation_data('datasets\\orientation', ['student-id'], test_set_ratio=0.15, valid_set_ratio=0.1, reset=True)
+    create_orientation_data('datasets\\orientation', ['government-id'], test_set_ratio=0.15, valid_set_ratio=0.1, reset=False)
     pass
