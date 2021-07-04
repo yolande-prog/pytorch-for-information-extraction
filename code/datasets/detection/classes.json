@@ -1,6 +1,7 @@
 {
-    "num_classes": 1,
+    "num_classes": 2,
     "classes": [
+        "GOVERNMENT-ID",
         "STUDENT_ID"
     ]
 }

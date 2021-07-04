@@ -59,6 +59,62 @@
         {
             "image_url": "datasets\\detection\\student-id\\10031.jpg",
             "annotation_url": "datasets\\detection\\student-id\\10031.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10119.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10119.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10134.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10134.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10074.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10074.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10035.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10035.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10038.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10038.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10033.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10033.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10018.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10018.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10097.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10097.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10034.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10034.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10009.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10009.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10055.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10055.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10110.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10110.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10003.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10003.json"
+        },
+        {
+            "image_url": "datasets\\detection\\government-id\\10071.jpg",
+            "annotation_url": "datasets\\detection\\government-id\\10071.json"
         }
     ]
 }
