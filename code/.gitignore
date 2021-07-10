@@ -1,0 +1,17 @@
+
+.*
+!/.gitignore
+
+.idea/
+
+__pycache__/
+
+checkpoints/
+
+modules/extraction/images/
+
+draft.py
+
+./field_coordinates.yaml
+
+

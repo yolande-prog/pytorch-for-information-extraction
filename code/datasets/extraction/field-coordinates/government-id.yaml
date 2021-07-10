@@ -1,0 +1,66 @@
+image_width: 324
+
+image_height: 204
+
+firstname:
+  width: 160
+  height: 40
+  left: 30
+  top: 30
+  type: "TEXT"
+  enabled: true
+  threshold: 0.5
+
+lastname:
+  width: 110
+  height: 40
+  left: 30
+  top: 60
+  type: "TEXT"
+  enabled: true
+  threshold: 0.5
+
+birth_date:
+  width: 110
+  height: 40
+  left: 30
+  top: 90
+  type: "DATE"
+  enabled: true
+  threshold: 0.7
+
+gender:
+  width: 160
+  height: 40
+  left: 30
+  top: 120
+  type: "TEXT"
+  enabled: true
+  threshold: 0.5
+
+signature:
+  width: 160
+  height: 49
+  left: 30
+  top: 155
+  type: "GRAPHIC"
+  enabled: true
+  threshold: 0.5
+
+photo:
+  width: 110
+  height: 110
+  left: 195
+  top: 45
+  type: "GRAPHIC"
+  enabled: true
+  threshold: 0.5
+
+id:
+  width: 65
+  height: 23
+  left: 254
+  top: 155
+  type: "TEXT"
+  enabled: true
+  threshold: 0.5
